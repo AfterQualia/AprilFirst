@@ -1,0 +1,4 @@
+fastapi
+postgres
+psycopg
+uvicorn
