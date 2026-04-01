@@ -1,4 +1,4 @@
 fastapi
 postgres
-psycopg
+asyncpg
 uvicorn
